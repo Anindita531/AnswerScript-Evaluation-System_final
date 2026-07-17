@@ -21,7 +21,7 @@ import NavigateBeforeIcon from '@mui/icons-material/NavigateBefore'
 import DoneIcon from '@mui/icons-material/Done'
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded'
 
-const API = 'http://localhost:8000'
+const API = 'https://answerscript-evaluation-system-final-5u91.onrender.com'
 
 export default function EvaluatedScriptsView() {
   const [results, setResults] = useState([])
