@@ -14,3 +14,4 @@ pytesseract
 numpy
 nltk
 redis
+easyocr
